@@ -1,0 +1,5 @@
+[tool.black]
+line-length = 88  # Default line length (change as needed)
+target-version = ['py38', 'py39', 'py310']  # Set your Python versions
+skip-string-normalization = false  # Enforce double quotes
+include = '\.pyi?$'  # Apply only to Python files

@@ -1,9 +1,9 @@
 # QA Engineer Homework
 
 ### Dependencies
-Ensure Python 3 is installed and execute:
+Ensure Python 3.8 or later is installed and execute:
 ```sh
-pip install tarfile
+pip3 install black
 ```
 
 ## Task A: String sort 
